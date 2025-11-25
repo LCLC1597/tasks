@@ -1,6 +1,10 @@
 创建数据库  CREATE DATABASE testdb;
 
+
+
 添加数据
+
+
 <img width="670" height="368" alt="添加数据" src="https://github.com/user-attachments/assets/e4d1af97-5ea5-4329-8282-1e20737aee98" />
 
 
